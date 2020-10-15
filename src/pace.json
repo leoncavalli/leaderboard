@@ -1,0 +1,77 @@
+[
+  {
+    "userid": 1,
+    "total_time": 25,
+    "distance": 5000
+  },
+  {
+    "userid": 2,
+    "total_time": 24,
+    "distance": 4800
+  },
+  {
+    "userid": 3,
+    "total_time": 28,
+    "distance": 6000
+  },
+  {
+    "userid": 4,
+    "total_time": 40,
+    "distance": 10000
+  },
+  {
+    "userid": 5,
+    "total_time": 12,
+    "distance": 2000
+  },
+  {
+    "userid": 6,
+    "total_time": 42,
+    "distance": 10000
+  },
+  {
+    "userid": 7,
+    "total_time": 20,
+    "distance": 5000
+  },
+  {
+    "userid": 8,
+    "total_time": 21,
+    "distance": 5000
+  },
+  {
+    "userid": 9,
+    "total_time": 30,
+    "distance": 5000
+  },
+  {
+    "userid": 10,
+    "total_time": 22,
+    "distance": 5000
+  },
+  {
+    "userid": 11,
+    "total_time": 30,
+    "distance": 6000
+  },
+  {
+    "userid": 12,
+    "total_time": 28,
+    "distance": 4500
+  },
+  {
+    "userid": 13,
+    "total_time": 18,
+    "distance": 5000
+  },
+  {
+    "userid": 14,
+    "total_time": 60,
+    "distance": 10000
+  },
+  {
+    "userid": 15,
+    "total_time": 45,
+    "distance": 8000
+  }
+]
